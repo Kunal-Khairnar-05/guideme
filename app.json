@@ -1,6 +1,7 @@
 {
   "expo": {
     "name": "guideme",
+    "scheme": "guideme",
     "slug": "guideme",
     "version": "1.0.0",
     "orientation": "portrait",
